@@ -6,7 +6,6 @@
 ![Domain](https://img.shields.io/badge/Domain-Electric%20Mobility-blue)
 ![Battery](https://img.shields.io/badge/Battery-LiFePO₄-green)
 ![Chemistry](https://img.shields.io/badge/Chemistry-Lithium--Ion-orange)
-![License](https://img.shields.io/badge/License-MIT-black)
 
 </p>
 
