@@ -17,13 +17,13 @@ The project combines **hydrodynamic power estimation, battery sizing, electroche
 
 ## ✨ Highlights
 
-- 🚤 Analysed three commercial boat categories (10 HP, 20 HP, 180 HP)
-- 🔋 Designed complete battery bank architecture from **cell → module → pack**
-- ⚙️ Performed propulsion power estimation using hydrodynamic scaling
-- 💰 Built techno-economic model including investment, operating cost & payback
-- 🌡️ Evaluated Li-ion chemistry selection for marine applications
-- 🔬 Studied electrochemical principles governing lithium-ion batteries
-- ⚠️ Identified engineering bottlenecks for large-scale deployment
+-  Analysed three commercial boat categories (10 HP, 20 HP, 180 HP)
+-  Designed complete battery bank architecture from **cell → module → pack**
+-  Performed propulsion power estimation using hydrodynamic scaling
+-  Built techno-economic model including investment, operating cost & payback
+-  Evaluated Li-ion chemistry selection for marine applications
+-  Studied electrochemical principles governing lithium-ion batteries
+-  Identified engineering bottlenecks for large-scale deployment
 
 ---
 
