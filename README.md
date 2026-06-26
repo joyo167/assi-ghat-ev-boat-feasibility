@@ -28,15 +28,3 @@ and cell-level reliability risk.
 Brief section/folder covering the underlying theory used to justify chemistry 
 and design choices: intercalation, SEI formation, Gibbs free energy and cell 
 voltage, C-rate tradeoffs across LFP/NMC/LCO.
-
-## Repo Contents
-- /reports — feasibility study + cell-level breakdown (PDF/slides)
-- /theory — battery fundamentals reference deck
-
-## Contributors
-This was a group project for CHE-291, IIT BHU. My primary contributions were 
-[fill in honestly — e.g. "power sizing calculations and cell-level architecture 
-section"]. Co-authored with [names].
-
-## References
-[Your existing reference links from the slides]
