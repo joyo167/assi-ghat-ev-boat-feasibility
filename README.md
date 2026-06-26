@@ -1,30 +1,148 @@
-# assi-ghat-ev-boat-feasibility
+# ⚡ Assi Ghat Electric Boat Propulsion Feasibility Study
 
-# Assi Ghat Electric Boat Propulsion Feasibility Study
+<p align="center">
 
-A techno-economic and cell-level engineering feasibility study for converting 
-Varanasi's Assi Ghat boat fleet (800+ boats, currently diesel/CNG) to electric 
-propulsion — covering power sizing, battery bank/module design, cost modeling, 
-and cell-level reliability risk.
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Domain](https://img.shields.io/badge/Domain-Electric%20Mobility-blue)
+![Battery](https://img.shields.io/badge/Battery-LiFePO₄-green)
+![Chemistry](https://img.shields.io/badge/Chemistry-Lithium--Ion-orange)
+![License](https://img.shields.io/badge/License-MIT-black)
 
-## Overview
-- Diesel/CNG fleet baseline and motivation for electrification
-- Three boat classes analyzed: 10 HP, 20 HP, 180 HP
-- Scope: technical feasibility + financial payback + cell-level engineering
+</p>
 
-## Methodology
-1. Power requirement derivation (hydrodynamic drag scaling, upstream/downstream asymmetry)
-2. Battery bank sizing (kWh) per boat class
-3. Cost modeling: initial investment vs. CNG operating cost, payback period
-4. Cell-level breakdown: cell selection, module/bank architecture, BMS requirements
+A **techno-economic and cell-level engineering feasibility study** evaluating the electrification of **800+ tourist boats operating at Assi Ghat, Varanasi**, replacing existing diesel/CNG propulsion with battery-electric systems.
 
-## Key Results
-- Battery sizing: 30 kWh / 60 kWh / 400 kWh across boat classes
-- Payback period: ~6.3 years for standard (10 HP) boats
-- Cell choice: LiFePO₄ 26800 cylindrical (3.6V, 6Ah, 167 Wh/kg) for thermal safety
-- Primary scale-up risks: BMS design complexity, cell matching/balancing
+The project combines **hydrodynamic power estimation, battery sizing, electrochemistry, cost modelling, battery architecture, and reliability analysis** to evaluate the practicality of fleet-wide electrification.
 
-## Electrochemistry Background
-Brief section/folder covering the underlying theory used to justify chemistry 
-and design choices: intercalation, SEI formation, Gibbs free energy and cell 
-voltage, C-rate tradeoffs across LFP/NMC/LCO.
+---
+
+## ✨ Highlights
+
+- 🚤 Analysed three commercial boat categories (10 HP, 20 HP, 180 HP)
+- 🔋 Designed complete battery bank architecture from **cell → module → pack**
+- ⚙️ Performed propulsion power estimation using hydrodynamic scaling
+- 💰 Built techno-economic model including investment, operating cost & payback
+- 🌡️ Evaluated Li-ion chemistry selection for marine applications
+- 🔬 Studied electrochemical principles governing lithium-ion batteries
+- ⚠️ Identified engineering bottlenecks for large-scale deployment
+
+---
+
+# 📊 Project Outcomes
+
+| Boat | Battery | Motor | Cells |
+|-------|---------|-------|-------|
+| 10 HP | 30 kWh | 10 kW | ~1500 |
+| 20 HP | 60 kWh | 20 kW | ~3000 |
+| 180 HP | 400 kWh | 150 kW | ~18600 |
+
+### Financial Analysis
+
+- Initial investment model
+- Daily operating cost comparison
+- CNG vs Electric analysis
+- Estimated payback period ≈ **6.3 years**
+
+---
+
+# 🔬 Engineering Analysis
+
+## Propulsion
+
+- Hydrodynamic drag scaling
+- Upstream/downstream power estimation
+- Daily energy consumption modelling
+- Motor sizing
+
+---
+
+## Battery Engineering
+
+- Cell selection
+- Module design
+- Battery bank architecture
+- Energy density calculations
+- Thermal safety
+- Pack weight estimation
+
+---
+
+## Electrochemistry
+
+Includes theoretical background explaining the engineering decisions.
+
+- Intercalation
+- SEI Formation
+- Gibbs Free Energy
+- Nernst Equation
+- Cell Voltage
+- Entropy
+- C-rate
+- LFP vs NMC vs LCO
+- Lithium-ion transport
+- Fermi Level
+- Electrolyte stability
+
+---
+
+## Risk Analysis
+
+- Battery Management System complexity
+- Cell matching & balancing
+- Thermal runaway
+- Manufacturing tolerance
+- Second-life battery utilization
+- Marine reliability considerations
+
+---
+
+# 📁 Repository Structure
+
+```
+.
+├── feasibility-study/
+├── battery-engineering/
+├── electrochemistry/
+├── figures/
+├── references/
+└── README.md
+```
+
+---
+
+# 🛠 Technologies & Concepts
+
+`Battery Engineering`
+`Electric Vehicles`
+`Electrochemistry`
+`Li-ion Batteries`
+`LiFePO₄`
+`Energy Storage`
+`Power Electronics`
+`Hydrodynamics`
+`Techno-Economic Analysis`
+`Battery Management System`
+`Thermal Management`
+`Sustainable Transportation`
+
+---
+
+# 📖 References
+
+- Government data on Assi Ghat fleet
+- Lithium-ion battery literature
+- Electrochemistry textbooks
+- Battery safety publications
+
+---
+
+# 👨‍💻 Authors
+
+**Yash Preetham B M**
+
+**Yuvraj Jain**
+
+**Kumar Abhishek**
+
+Department of Chemical Engineering  
+Indian Institute of Technology (BHU), Varanasi
