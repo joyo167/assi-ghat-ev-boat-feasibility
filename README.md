@@ -95,20 +95,6 @@ Includes theoretical background explaining the engineering decisions.
 
 ---
 
-# 📁 Repository Structure
-
-```
-.
-├── feasibility-study/
-├── battery-engineering/
-├── electrochemistry/
-├── figures/
-├── references/
-└── README.md
-```
-
----
-
 # 🛠 Technologies & Concepts
 
 `Battery Engineering`
@@ -134,14 +120,6 @@ Includes theoretical background explaining the engineering decisions.
 - Battery safety publications
 
 ---
-
-# 👨‍💻 Authors
-
-**Yash Preetham B M**
-
-**Yuvraj Jain**
-
-**Kumar Abhishek**
 
 Department of Chemical Engineering  
 Indian Institute of Technology (BHU), Varanasi
